@@ -37,7 +37,8 @@ repositories {
 
 dependencies {
     implementation 'com.facebook.react:react-native:+'
+    implementation 'androidx.annotation:annotation:1.0.0'
     implementation 'com.github.javiersantos:BottomDialogs:1.2.1'
     implementation 'com.github.prscx:bottomsheetbuilder:fixes-SNAPSHOT'
-    implementation 'com.android.support:design:27.1.1'
+    implementation 'androidx.core:core:1.0.1'
 }
