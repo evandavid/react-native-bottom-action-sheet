@@ -41,4 +41,5 @@ dependencies {
     implementation 'com.github.javiersantos:BottomDialogs:1.2.1'
     implementation 'com.github.prscx:bottomsheetbuilder:fixes-SNAPSHOT'
     implementation 'androidx.core:core:1.0.1'
+    implementation 'com.android.support:design:27.1.1'
 }
