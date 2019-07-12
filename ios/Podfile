@@ -6,5 +6,5 @@ target 'RNBottomActionSheet' do
   # use_frameworks!
 
   # Pods for RNBottomActionSheet
-  pod 'SGActionView', :git => 'https://github.com/evandavid/SGActionView.git', :commit => '2d1e56ca6b0a0accd396ec87f074d6442d091fe1', :inhibit_warnings => true
+  pod 'SGActionView', :git => 'https://github.com/evandavid/SGActionView.git', :commit => 'a336c2800753465786c799d98fb2a218eb23caaf', :inhibit_warnings => true
 end
